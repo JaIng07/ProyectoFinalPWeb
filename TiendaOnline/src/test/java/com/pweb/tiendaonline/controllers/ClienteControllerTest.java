@@ -23,7 +23,6 @@ import org.springframework.test.web.servlet.MockMvc;
 import org.springframework.test.web.servlet.ResultActions;
 import org.springframework.test.web.servlet.result.MockMvcResultMatchers;
 
-import java.security.PrivilegedAction;
 import java.util.Arrays;
 import java.util.Collections;
 import java.util.List;
